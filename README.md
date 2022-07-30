@@ -1,7 +1,7 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO  SEU APLICATIVO",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=17889",
+  "UrlUpdate": "https://github.com/Anderson1995/Anderson1995/edit/main/README.md",
   "Sms": "",
   "EmailFeedback": "maeiloveyouforever@gmail.com",
   "UrlContato": "",
