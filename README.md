@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO  SEU APLICATIVO",
   "UrlUpdate": "https://github.com/Anderson1995/Anderson1995/edit/main/README.md",
   "Sms": "",
